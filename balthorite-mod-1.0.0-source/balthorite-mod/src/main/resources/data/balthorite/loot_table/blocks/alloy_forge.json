@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        { "condition": "minecraft:survives_explosion" }
+      ],
+      "entries": [
+        { "type": "minecraft:item", "name": "balthorite:alloy_forge" }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "balthorite:blocks/alloy_forge"
+}

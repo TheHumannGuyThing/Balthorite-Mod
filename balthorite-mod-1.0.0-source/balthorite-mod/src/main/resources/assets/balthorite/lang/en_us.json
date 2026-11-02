@@ -1,0 +1,18 @@
+{
+  "itemGroup.balthorite": "Balthorite",
+
+  "block.balthorite.alloy_forge": "Alloy Forge",
+  "item.balthorite.balthorite_ingot": "Balthorite Ingot",
+  "item.balthorite.balthorite_upgrade_template": "Balthorite Upgrade Template",
+
+  "item.balthorite.balthorite_upgrade_template.upgrade": "Balthorite Upgrade",
+  "item.balthorite.balthorite_upgrade_template.applies_to": "Applies to:",
+  "item.balthorite.balthorite_upgrade_template.applies_to.desc": "Netherite Ingot",
+  "item.balthorite.balthorite_upgrade_template.ingredients": "Ingredients:",
+  "item.balthorite.balthorite_upgrade_template.ingredients.desc": "Echo Shard",
+
+  "container.balthorite.alloy_forge": "Alloy Forge",
+  "container.balthorite.alloy_forge.hint.template": "Add a Balthorite Upgrade Template",
+  "container.balthorite.alloy_forge.hint.base": "Add a Netherite Ingot",
+  "container.balthorite.alloy_forge.hint.addition": "Add an Echo Shard"
+}

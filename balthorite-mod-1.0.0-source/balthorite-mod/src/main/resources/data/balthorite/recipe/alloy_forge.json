@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "EEE",
+    "ECE",
+    "EEE"
+  ],
+  "key": {
+    "E": { "item": "minecraft:echo_shard" },
+    "C": { "item": "minecraft:crafting_table" }
+  },
+  "result": {
+    "id": "balthorite:alloy_forge",
+    "count": 1
+  }
+}

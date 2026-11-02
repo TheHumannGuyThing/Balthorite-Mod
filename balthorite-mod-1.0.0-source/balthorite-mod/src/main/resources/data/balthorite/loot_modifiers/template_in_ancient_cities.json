@@ -1,0 +1,9 @@
+{
+  "type": "balthorite:add_item",
+  "conditions": [
+    { "condition": "neoforge:loot_table_id", "loot_table_id": "minecraft:chests/ancient_city" },
+    { "condition": "minecraft:random_chance", "chance": 0.12 }
+  ],
+  "item": "balthorite:balthorite_upgrade_template",
+  "count": 1
+}

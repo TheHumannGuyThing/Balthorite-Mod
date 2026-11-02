@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "DTD",
+    "DED",
+    "DDD"
+  ],
+  "key": {
+    "D": { "item": "minecraft:diamond" },
+    "T": { "item": "balthorite:balthorite_upgrade_template" },
+    "E": { "item": "minecraft:end_stone" }
+  },
+  "result": {
+    "id": "balthorite:balthorite_upgrade_template",
+    "count": 2
+  }
+}
